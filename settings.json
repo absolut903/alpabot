@@ -1,25 +1,37 @@
 {
+
     "self_mode": true,
-	"autobio": true,
-	"antihidetag": true,
+
+	"autobio": true,	"antihidetag": true,
+
 	"user_register": true,
+
 	"antidelete" : false,
+
 	"anticall": true,
+
 	"prefix": ".",
+
 	"language":"ind",
-	"ownerNumber": "62887435047326",
-	"ownerNumberr": "62887435047326",
-	"cr": "@ZeeoneOfc",
-	"yt":"bit.ly/ytzeeoneofc",
-	"grub": "bit.ly/gczeeoneofc",
-	"wa": "bit.ly/wazeeoneofc",
-	"donate": "bit.ly/dtzeeoneofc",
-	"ig": "bit.ly/igzeeoneofc",
-	"gt": "bit.ly/gtzeeoneofc",	
-	"ownername": "ZeeoneOfc",
-	"botname":"ΛᄂPΉΛ BӨƬ",
-	"img":"https://e.top4top.io/p_2010lz9211.jpg",
-	"thumb":"IMG_20211001_074948_766-min.jpg",
-	"fakethumb":"IMG_20211001_074948_766-min.jpg", 
-	"fake": " 「  Alphabot  」\nCreated By @ZeeoneOfc"
+
+	"ownerNumber": "13642092029",
+
+	"ownerNumberr": "13642092029",
+
+	"cr": "@ＺＷＡＲＵＤＯ  ＢＯＴ ざ",
+
+	"grub": "bit.ly/3msb8qP",
+
+	"wa": "bit.ly/3msb8qP",	
+
+	"ownername": "Zwarudo",
+
+	"botname":"𝘡𝘈𝘢𝘉𝘰𝘵",
+
+	"thumb":"Alphabot.jpg",
+
+	"fakethumb":"Alphabot.jpg", 
+
+	"fake": " 「  ＺＷＡＲＵＤＯ  ＢＯＴ ざ  」\nCreated By @Zwarudo"
+
 }
